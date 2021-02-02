@@ -1,0 +1,13 @@
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор иф элс\bin\Debug\netcoreapp3.1\Калькулятор иф элс.exe
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор иф элс\bin\Debug\netcoreapp3.1\Калькулятор иф элс.deps.json
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор иф элс\bin\Debug\netcoreapp3.1\Калькулятор иф элс.runtimeconfig.json
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор иф элс\bin\Debug\netcoreapp3.1\Калькулятор иф элс.runtimeconfig.dev.json
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор иф элс\bin\Debug\netcoreapp3.1\Калькулятор иф элс.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор иф элс\bin\Debug\netcoreapp3.1\Калькулятор иф элс.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор иф элс\obj\Debug\netcoreapp3.1\Калькулятор иф элс.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор иф элс\obj\Debug\netcoreapp3.1\Калькулятор иф элс.AssemblyInfoInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор иф элс\obj\Debug\netcoreapp3.1\Калькулятор иф элс.AssemblyInfo.cs
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор иф элс\obj\Debug\netcoreapp3.1\Калькулятор иф элс.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор иф элс\obj\Debug\netcoreapp3.1\Калькулятор иф элс.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор иф элс\obj\Debug\netcoreapp3.1\Калькулятор иф элс.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор иф элс\obj\Debug\netcoreapp3.1\Калькулятор иф элс.genruntimeconfig.cache

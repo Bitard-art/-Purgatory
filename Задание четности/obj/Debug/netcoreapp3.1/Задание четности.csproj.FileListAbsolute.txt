@@ -1,0 +1,13 @@
+C:\Users\Maksim\source\repos\Gudlaskap\Задание четности\bin\Debug\netcoreapp3.1\Задание четности.exe
+C:\Users\Maksim\source\repos\Gudlaskap\Задание четности\bin\Debug\netcoreapp3.1\Задание четности.deps.json
+C:\Users\Maksim\source\repos\Gudlaskap\Задание четности\bin\Debug\netcoreapp3.1\Задание четности.runtimeconfig.json
+C:\Users\Maksim\source\repos\Gudlaskap\Задание четности\bin\Debug\netcoreapp3.1\Задание четности.runtimeconfig.dev.json
+C:\Users\Maksim\source\repos\Gudlaskap\Задание четности\bin\Debug\netcoreapp3.1\Задание четности.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Задание четности\bin\Debug\netcoreapp3.1\Задание четности.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Задание четности\obj\Debug\netcoreapp3.1\Задание четности.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Задание четности\obj\Debug\netcoreapp3.1\Задание четности.AssemblyInfoInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Задание четности\obj\Debug\netcoreapp3.1\Задание четности.AssemblyInfo.cs
+C:\Users\Maksim\source\repos\Gudlaskap\Задание четности\obj\Debug\netcoreapp3.1\Задание четности.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Задание четности\obj\Debug\netcoreapp3.1\Задание четности.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Задание четности\obj\Debug\netcoreapp3.1\Задание четности.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Задание четности\obj\Debug\netcoreapp3.1\Задание четности.genruntimeconfig.cache

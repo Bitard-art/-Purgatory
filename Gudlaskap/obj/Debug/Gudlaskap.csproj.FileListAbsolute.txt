@@ -1,0 +1,7 @@
+C:\Users\Maksim\source\repos\Gudlaskap\Gudlaskap\bin\Debug\Gudlaskap.exe.config
+C:\Users\Maksim\source\repos\Gudlaskap\Gudlaskap\bin\Debug\Gudlaskap.exe
+C:\Users\Maksim\source\repos\Gudlaskap\Gudlaskap\bin\Debug\Gudlaskap.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Gudlaskap\obj\Debug\Gudlaskap.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Gudlaskap\obj\Debug\Gudlaskap.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Gudlaskap\obj\Debug\Gudlaskap.exe
+C:\Users\Maksim\source\repos\Gudlaskap\Gudlaskap\obj\Debug\Gudlaskap.pdb

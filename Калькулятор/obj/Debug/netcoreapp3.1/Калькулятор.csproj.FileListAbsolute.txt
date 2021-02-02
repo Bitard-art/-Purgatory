@@ -1,0 +1,13 @@
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.exe
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.deps.json
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.runtimeconfig.json
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.runtimeconfig.dev.json
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.AssemblyInfoInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.AssemblyInfo.cs
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.genruntimeconfig.cache
