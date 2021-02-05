@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Счётчик_чётных_и_не_чётных_Второй_вариант</RootNamespace>
+  </PropertyGroup>
+
+</Project>

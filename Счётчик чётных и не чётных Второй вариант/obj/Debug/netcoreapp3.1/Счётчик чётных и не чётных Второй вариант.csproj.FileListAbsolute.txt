@@ -1,0 +1,13 @@
+C:\Users\Maksim\source\repos\Gudlaskap\Счётчик чётных и не чётных Второй вариант\bin\Debug\netcoreapp3.1\Счётчик чётных и не чётных Второй вариант.exe
+C:\Users\Maksim\source\repos\Gudlaskap\Счётчик чётных и не чётных Второй вариант\bin\Debug\netcoreapp3.1\Счётчик чётных и не чётных Второй вариант.deps.json
+C:\Users\Maksim\source\repos\Gudlaskap\Счётчик чётных и не чётных Второй вариант\bin\Debug\netcoreapp3.1\Счётчик чётных и не чётных Второй вариант.runtimeconfig.json
+C:\Users\Maksim\source\repos\Gudlaskap\Счётчик чётных и не чётных Второй вариант\bin\Debug\netcoreapp3.1\Счётчик чётных и не чётных Второй вариант.runtimeconfig.dev.json
+C:\Users\Maksim\source\repos\Gudlaskap\Счётчик чётных и не чётных Второй вариант\bin\Debug\netcoreapp3.1\Счётчик чётных и не чётных Второй вариант.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Счётчик чётных и не чётных Второй вариант\bin\Debug\netcoreapp3.1\Счётчик чётных и не чётных Второй вариант.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Счётчик чётных и не чётных Второй вариант\obj\Debug\netcoreapp3.1\Счётчик чётных и не чётных Второй вариант.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Счётчик чётных и не чётных Второй вариант\obj\Debug\netcoreapp3.1\Счётчик чётных и не чётных Второй вариант.AssemblyInfoInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Счётчик чётных и не чётных Второй вариант\obj\Debug\netcoreapp3.1\Счётчик чётных и не чётных Второй вариант.AssemblyInfo.cs
+C:\Users\Maksim\source\repos\Gudlaskap\Счётчик чётных и не чётных Второй вариант\obj\Debug\netcoreapp3.1\Счётчик чётных и не чётных Второй вариант.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Счётчик чётных и не чётных Второй вариант\obj\Debug\netcoreapp3.1\Счётчик чётных и не чётных Второй вариант.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Счётчик чётных и не чётных Второй вариант\obj\Debug\netcoreapp3.1\Счётчик чётных и не чётных Второй вариант.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Счётчик чётных и не чётных Второй вариант\obj\Debug\netcoreapp3.1\Счётчик чётных и не чётных Второй вариант.genruntimeconfig.cache

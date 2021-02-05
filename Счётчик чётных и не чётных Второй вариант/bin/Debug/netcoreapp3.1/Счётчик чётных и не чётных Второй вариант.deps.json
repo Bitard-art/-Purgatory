@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Счётчик чётных и не чётных Второй вариант/1.0.0": {
+        "runtime": {
+          "Счётчик чётных и не чётных Второй вариант.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Счётчик чётных и не чётных Второй вариант/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
