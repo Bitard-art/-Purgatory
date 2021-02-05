@@ -1,0 +1,13 @@
+C:\Users\Maksim\source\repos\Gudlaskap\Вычисление чётности и не чётности Первый вариант\bin\Debug\netcoreapp3.1\Вычисление чётности и не чётности Первый вариант.exe
+C:\Users\Maksim\source\repos\Gudlaskap\Вычисление чётности и не чётности Первый вариант\bin\Debug\netcoreapp3.1\Вычисление чётности и не чётности Первый вариант.deps.json
+C:\Users\Maksim\source\repos\Gudlaskap\Вычисление чётности и не чётности Первый вариант\bin\Debug\netcoreapp3.1\Вычисление чётности и не чётности Первый вариант.runtimeconfig.json
+C:\Users\Maksim\source\repos\Gudlaskap\Вычисление чётности и не чётности Первый вариант\bin\Debug\netcoreapp3.1\Вычисление чётности и не чётности Первый вариант.runtimeconfig.dev.json
+C:\Users\Maksim\source\repos\Gudlaskap\Вычисление чётности и не чётности Первый вариант\bin\Debug\netcoreapp3.1\Вычисление чётности и не чётности Первый вариант.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Вычисление чётности и не чётности Первый вариант\bin\Debug\netcoreapp3.1\Вычисление чётности и не чётности Первый вариант.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Вычисление чётности и не чётности Первый вариант\obj\Debug\netcoreapp3.1\Вычисление чётности и не чётности Первый вариант.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Вычисление чётности и не чётности Первый вариант\obj\Debug\netcoreapp3.1\Вычисление чётности и не чётности Первый вариант.AssemblyInfoInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Вычисление чётности и не чётности Первый вариант\obj\Debug\netcoreapp3.1\Вычисление чётности и не чётности Первый вариант.AssemblyInfo.cs
+C:\Users\Maksim\source\repos\Gudlaskap\Вычисление чётности и не чётности Первый вариант\obj\Debug\netcoreapp3.1\Вычисление чётности и не чётности Первый вариант.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Вычисление чётности и не чётности Первый вариант\obj\Debug\netcoreapp3.1\Вычисление чётности и не чётности Первый вариант.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Вычисление чётности и не чётности Первый вариант\obj\Debug\netcoreapp3.1\Вычисление чётности и не чётности Первый вариант.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Вычисление чётности и не чётности Первый вариант\obj\Debug\netcoreapp3.1\Вычисление чётности и не чётности Первый вариант.genruntimeconfig.cache
