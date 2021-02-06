@@ -1,0 +1,13 @@
+C:\Users\Maksim\source\repos\Gudlaskap\Треугольники\bin\Debug\netcoreapp3.1\Треугольники.exe
+C:\Users\Maksim\source\repos\Gudlaskap\Треугольники\bin\Debug\netcoreapp3.1\Треугольники.deps.json
+C:\Users\Maksim\source\repos\Gudlaskap\Треугольники\bin\Debug\netcoreapp3.1\Треугольники.runtimeconfig.json
+C:\Users\Maksim\source\repos\Gudlaskap\Треугольники\bin\Debug\netcoreapp3.1\Треугольники.runtimeconfig.dev.json
+C:\Users\Maksim\source\repos\Gudlaskap\Треугольники\bin\Debug\netcoreapp3.1\Треугольники.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Треугольники\bin\Debug\netcoreapp3.1\Треугольники.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Треугольники\obj\Debug\netcoreapp3.1\Треугольники.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Треугольники\obj\Debug\netcoreapp3.1\Треугольники.AssemblyInfoInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Треугольники\obj\Debug\netcoreapp3.1\Треугольники.AssemblyInfo.cs
+C:\Users\Maksim\source\repos\Gudlaskap\Треугольники\obj\Debug\netcoreapp3.1\Треугольники.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Треугольники\obj\Debug\netcoreapp3.1\Треугольники.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Треугольники\obj\Debug\netcoreapp3.1\Треугольники.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Треугольники\obj\Debug\netcoreapp3.1\Треугольники.genruntimeconfig.cache
