@@ -1,0 +1,13 @@
+C:\Users\Maksim\source\repos\Gudlaskap\Массив\bin\Debug\netcoreapp3.1\Массив.exe
+C:\Users\Maksim\source\repos\Gudlaskap\Массив\bin\Debug\netcoreapp3.1\Массив.deps.json
+C:\Users\Maksim\source\repos\Gudlaskap\Массив\bin\Debug\netcoreapp3.1\Массив.runtimeconfig.json
+C:\Users\Maksim\source\repos\Gudlaskap\Массив\bin\Debug\netcoreapp3.1\Массив.runtimeconfig.dev.json
+C:\Users\Maksim\source\repos\Gudlaskap\Массив\bin\Debug\netcoreapp3.1\Массив.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Массив\bin\Debug\netcoreapp3.1\Массив.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Массив\obj\Debug\netcoreapp3.1\Массив.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Массив\obj\Debug\netcoreapp3.1\Массив.AssemblyInfoInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Массив\obj\Debug\netcoreapp3.1\Массив.AssemblyInfo.cs
+C:\Users\Maksim\source\repos\Gudlaskap\Массив\obj\Debug\netcoreapp3.1\Массив.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Массив\obj\Debug\netcoreapp3.1\Массив.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Массив\obj\Debug\netcoreapp3.1\Массив.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Массив\obj\Debug\netcoreapp3.1\Массив.genruntimeconfig.cache
