@@ -1,0 +1,13 @@
+C:\Users\Maksim\source\repos\Gudlaskap\DZ №7  Video№46\bin\Debug\netcoreapp3.1\DZ №7  Video№46.exe
+C:\Users\Maksim\source\repos\Gudlaskap\DZ №7  Video№46\bin\Debug\netcoreapp3.1\DZ №7  Video№46.deps.json
+C:\Users\Maksim\source\repos\Gudlaskap\DZ №7  Video№46\bin\Debug\netcoreapp3.1\DZ №7  Video№46.runtimeconfig.json
+C:\Users\Maksim\source\repos\Gudlaskap\DZ №7  Video№46\bin\Debug\netcoreapp3.1\DZ №7  Video№46.runtimeconfig.dev.json
+C:\Users\Maksim\source\repos\Gudlaskap\DZ №7  Video№46\bin\Debug\netcoreapp3.1\DZ №7  Video№46.dll
+C:\Users\Maksim\source\repos\Gudlaskap\DZ №7  Video№46\bin\Debug\netcoreapp3.1\DZ №7  Video№46.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\DZ №7  Video№46\obj\Debug\netcoreapp3.1\DZ №7  Video№46.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\Gudlaskap\DZ №7  Video№46\obj\Debug\netcoreapp3.1\DZ №7  Video№46.AssemblyInfoInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\DZ №7  Video№46\obj\Debug\netcoreapp3.1\DZ №7  Video№46.AssemblyInfo.cs
+C:\Users\Maksim\source\repos\Gudlaskap\DZ №7  Video№46\obj\Debug\netcoreapp3.1\DZ №7  Video№46.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\DZ №7  Video№46\obj\Debug\netcoreapp3.1\DZ №7  Video№46.dll
+C:\Users\Maksim\source\repos\Gudlaskap\DZ №7  Video№46\obj\Debug\netcoreapp3.1\DZ №7  Video№46.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\DZ №7  Video№46\obj\Debug\netcoreapp3.1\DZ №7  Video№46.genruntimeconfig.cache
