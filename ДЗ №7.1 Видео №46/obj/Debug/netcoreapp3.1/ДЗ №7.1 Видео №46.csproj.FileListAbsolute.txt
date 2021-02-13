@@ -1,0 +1,12 @@
+C:\Users\Maksim\source\repos\Gudlaskap\ДЗ №7.1 Видео №46\bin\Debug\netcoreapp3.1\ДЗ №7.1 Видео №46.exe
+C:\Users\Maksim\source\repos\Gudlaskap\ДЗ №7.1 Видео №46\bin\Debug\netcoreapp3.1\ДЗ №7.1 Видео №46.deps.json
+C:\Users\Maksim\source\repos\Gudlaskap\ДЗ №7.1 Видео №46\bin\Debug\netcoreapp3.1\ДЗ №7.1 Видео №46.runtimeconfig.json
+C:\Users\Maksim\source\repos\Gudlaskap\ДЗ №7.1 Видео №46\bin\Debug\netcoreapp3.1\ДЗ №7.1 Видео №46.runtimeconfig.dev.json
+C:\Users\Maksim\source\repos\Gudlaskap\ДЗ №7.1 Видео №46\bin\Debug\netcoreapp3.1\ДЗ №7.1 Видео №46.dll
+C:\Users\Maksim\source\repos\Gudlaskap\ДЗ №7.1 Видео №46\bin\Debug\netcoreapp3.1\ДЗ №7.1 Видео №46.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\ДЗ №7.1 Видео №46\obj\Debug\netcoreapp3.1\ДЗ №7.1 Видео №46.AssemblyInfoInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\ДЗ №7.1 Видео №46\obj\Debug\netcoreapp3.1\ДЗ №7.1 Видео №46.AssemblyInfo.cs
+C:\Users\Maksim\source\repos\Gudlaskap\ДЗ №7.1 Видео №46\obj\Debug\netcoreapp3.1\ДЗ №7.1 Видео №46.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\ДЗ №7.1 Видео №46\obj\Debug\netcoreapp3.1\ДЗ №7.1 Видео №46.dll
+C:\Users\Maksim\source\repos\Gudlaskap\ДЗ №7.1 Видео №46\obj\Debug\netcoreapp3.1\ДЗ №7.1 Видео №46.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\ДЗ №7.1 Видео №46\obj\Debug\netcoreapp3.1\ДЗ №7.1 Видео №46.genruntimeconfig.cache
