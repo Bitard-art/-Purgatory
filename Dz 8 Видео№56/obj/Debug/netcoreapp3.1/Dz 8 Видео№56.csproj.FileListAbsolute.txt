@@ -1,0 +1,13 @@
+C:\Users\Maksim\source\repos\Gudlaskap\Dz 8 Видео№56\bin\Debug\netcoreapp3.1\Dz 8 Видео№56.exe
+C:\Users\Maksim\source\repos\Gudlaskap\Dz 8 Видео№56\bin\Debug\netcoreapp3.1\Dz 8 Видео№56.deps.json
+C:\Users\Maksim\source\repos\Gudlaskap\Dz 8 Видео№56\bin\Debug\netcoreapp3.1\Dz 8 Видео№56.runtimeconfig.json
+C:\Users\Maksim\source\repos\Gudlaskap\Dz 8 Видео№56\bin\Debug\netcoreapp3.1\Dz 8 Видео№56.runtimeconfig.dev.json
+C:\Users\Maksim\source\repos\Gudlaskap\Dz 8 Видео№56\bin\Debug\netcoreapp3.1\Dz 8 Видео№56.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Dz 8 Видео№56\bin\Debug\netcoreapp3.1\Dz 8 Видео№56.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Dz 8 Видео№56\obj\Debug\netcoreapp3.1\Dz 8 Видео№56.AssemblyInfoInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Dz 8 Видео№56\obj\Debug\netcoreapp3.1\Dz 8 Видео№56.AssemblyInfo.cs
+C:\Users\Maksim\source\repos\Gudlaskap\Dz 8 Видео№56\obj\Debug\netcoreapp3.1\Dz 8 Видео№56.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Dz 8 Видео№56\obj\Debug\netcoreapp3.1\Dz 8 Видео№56.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Dz 8 Видео№56\obj\Debug\netcoreapp3.1\Dz 8 Видео№56.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Dz 8 Видео№56\obj\Debug\netcoreapp3.1\Dz 8 Видео№56.genruntimeconfig.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Dz 8 Видео№56\obj\Debug\netcoreapp3.1\Dz 8 Видео№56.csprojAssemblyReference.cache

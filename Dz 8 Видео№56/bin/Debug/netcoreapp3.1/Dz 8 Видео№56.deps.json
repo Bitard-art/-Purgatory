@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dz 8 Видео№56/1.0.0": {
+        "runtime": {
+          "Dz 8 Видео№56.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dz 8 Видео№56/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
