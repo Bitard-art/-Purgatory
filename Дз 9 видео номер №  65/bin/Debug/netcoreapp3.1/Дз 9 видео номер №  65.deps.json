@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Дз 9 видео номер №  65/1.0.0": {
+        "runtime": {
+          "Дз 9 видео номер №  65.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Дз 9 видео номер №  65/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Maksim\source\repos\Gudlaskap\Дз 9 видео номер №  65\bin\Debug\netcoreapp3.1\Дз 9 видео номер №  65.exe
+C:\Users\Maksim\source\repos\Gudlaskap\Дз 9 видео номер №  65\bin\Debug\netcoreapp3.1\Дз 9 видео номер №  65.deps.json
+C:\Users\Maksim\source\repos\Gudlaskap\Дз 9 видео номер №  65\bin\Debug\netcoreapp3.1\Дз 9 видео номер №  65.runtimeconfig.json
+C:\Users\Maksim\source\repos\Gudlaskap\Дз 9 видео номер №  65\bin\Debug\netcoreapp3.1\Дз 9 видео номер №  65.runtimeconfig.dev.json
+C:\Users\Maksim\source\repos\Gudlaskap\Дз 9 видео номер №  65\bin\Debug\netcoreapp3.1\Дз 9 видео номер №  65.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Дз 9 видео номер №  65\bin\Debug\netcoreapp3.1\Дз 9 видео номер №  65.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Дз 9 видео номер №  65\obj\Debug\netcoreapp3.1\Дз 9 видео номер №  65.AssemblyInfoInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Дз 9 видео номер №  65\obj\Debug\netcoreapp3.1\Дз 9 видео номер №  65.AssemblyInfo.cs
+C:\Users\Maksim\source\repos\Gudlaskap\Дз 9 видео номер №  65\obj\Debug\netcoreapp3.1\Дз 9 видео номер №  65.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Дз 9 видео номер №  65\obj\Debug\netcoreapp3.1\Дз 9 видео номер №  65.dll
+C:\Users\Maksim\source\repos\Gudlaskap\Дз 9 видео номер №  65\obj\Debug\netcoreapp3.1\Дз 9 видео номер №  65.pdb
+C:\Users\Maksim\source\repos\Gudlaskap\Дз 9 видео номер №  65\obj\Debug\netcoreapp3.1\Дз 9 видео номер №  65.genruntimeconfig.cache
+C:\Users\Maksim\source\repos\Gudlaskap\Дз 9 видео номер №  65\obj\Debug\netcoreapp3.1\Дз 9 видео номер №  65.csprojAssemblyReference.cache
